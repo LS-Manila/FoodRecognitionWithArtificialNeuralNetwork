@@ -1,6 +1,6 @@
 # Food Recognition With Artificial Neural Network
 
-### Update (11/11/15)
+#### Update (11/11/15)
 - Successfully exported a trained neural network.
 - Changed training from elapsed time based to acceptable error based.
 
