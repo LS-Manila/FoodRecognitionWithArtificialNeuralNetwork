@@ -1,7 +1,7 @@
 # Food Recognition With Artificial Neural Network
 
 ## Update (11/11/15)
-- Successfully trained and exported neural network.
+- Successfully exported a trained neural network.
 
 ## Agenda (11/10/15)
 
