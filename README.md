@@ -48,3 +48,5 @@ transfer thesis documentation to Latex format. /Kevin
 
 Separate Methodology from Design Consideration
 Add details to methodology
+
+tensorflow image recognition debugging. /Jm
