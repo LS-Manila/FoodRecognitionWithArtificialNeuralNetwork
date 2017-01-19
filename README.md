@@ -50,3 +50,5 @@ Separate Methodology from Design Consideration
 Add details to methodology
 
 tensorflow image recognition debugging. /Jm
+
+Jan. 26 - next meeting full dataset with partial accuracy.
