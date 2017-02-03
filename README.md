@@ -61,6 +61,11 @@ Giovanni Maria Farinella, Dario Allegra, Marco
 Moltisanti, Filippo Stanco, Sebastiano Battiato
 https://www.researchgate.net/profile/Dario_Allegra/publication/305381927_Retrieval_and_Classification_of_Food_Images/links/578df00808ae9754b7e9d6c9.pdf 
 
+
+- Computer Vision-Based Carbohydrate Estimation for Type 1 Patients With Diabetes Using Smartphones 
+Marios Anthimopoulos, PhD,1 Joachim Dehais, MSc,1,2 Sergey Shevchik, PhD,1 Botwey H. Ransford, MSc,1 David Duke, PhD,3 Peter Diem, MD,4 and Stavroula Mougiakakou, PhD1,4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604531/pdf/10.1177_1932296815580159.pdf 
+
 - Im2Calories: towards an automated mobile vision food diary
 Austin Myers, Nick Johnston, Vivek Rathod, Anoop Korattikara, Alex Gorban
 Nathan Silberman, Sergio Guadarrama, George Papandreou, Jonathan Huang, Kevin Murphy
