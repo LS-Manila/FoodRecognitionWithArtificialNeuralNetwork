@@ -52,3 +52,17 @@ Add details to methodology
 tensorflow image recognition debugging. /Jm
 
 Jan. 26 - next meeting full dataset with partial accuracy.
+
+
+## Literature
+
+- Retrieval and Classification of Food Images
+Giovanni Maria Farinella, Dario Allegra, Marco
+Moltisanti, Filippo Stanco, Sebastiano Battiato
+https://www.researchgate.net/profile/Dario_Allegra/publication/305381927_Retrieval_and_Classification_of_Food_Images/links/578df00808ae9754b7e9d6c9.pdf 
+
+- Im2Calories: towards an automated mobile vision food diary
+Austin Myers, Nick Johnston, Vivek Rathod, Anoop Korattikara, Alex Gorban
+Nathan Silberman, Sergio Guadarrama, George Papandreou, Jonathan Huang, Kevin Murphy
+https://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf 
+
